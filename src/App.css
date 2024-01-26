@@ -1,0 +1,15 @@
+#root {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.cta {
+  text-decoration: underline solid #888;
+}
+
+.read-the-docs {
+  font-size: 14px;
+  color: #888;
+  text-align: center;
+}
